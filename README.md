@@ -1,5 +1,5 @@
 # AppliedLLMCourse
-applied llm course
+
 Class Moto : "Less is more"
 
 ## Module #1
