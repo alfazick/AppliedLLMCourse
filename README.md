@@ -6,3 +6,4 @@ Class Moto : "Less is more"
 #### Intro Setup 
 #### Intro to Inference
 #### Intro to Batching
+#### InferenceControl
