@@ -7,3 +7,5 @@ Class Moto : "Less is more"
 #### Intro to Inference
 #### Intro to Batching
 #### InferenceControl
+
+### Projects: Out of box:  Classifier
