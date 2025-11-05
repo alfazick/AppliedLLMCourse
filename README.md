@@ -9,3 +9,5 @@ Class Moto : "Less is more"
 #### InferenceControl
 
 ### Projects: Out of box:  Classifier
+## Module #2
+#### Fine tuning ideas. Gradient Descent. Pytorch
