@@ -12,3 +12,4 @@ Class Moto : "Less is more"
 ## Module #2
 #### Fine tuning ideas. Gradient Descent. Pytorch
 #### How Transformers Turned into Classifiers Work
+#### FineTuning Bert Classifiers Raw No Optimization
