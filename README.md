@@ -11,3 +11,4 @@ Class Moto : "Less is more"
 ### Projects: Out of box:  Classifier
 ## Module #2
 #### Fine tuning ideas. Gradient Descent. Pytorch
+#### How Transformers Turned into Classifiers Work
