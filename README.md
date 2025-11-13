@@ -19,5 +19,5 @@ Class Moto : "Less is more"
 #### PEFT Mini Example
 
 
-### Project: Prompt Injection Classifier
-### Project: PEFT "3 Characters Personalities"
+#### Project: Prompt Injection Classifier
+#### Project: PEFT "3 Characters Personalities"
