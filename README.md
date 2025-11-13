@@ -18,6 +18,8 @@ Class Moto : "Less is more"
 #### Low Rank Adaptation Theory
 #### PEFT Mini Example
 
+## Project
 
-#### Project: Prompt Injection Classifier
-#### Project: PEFT "3 Characters Personalities"
+### Project#1: Web App Two Mode Summarization and Chat Manual Inference  
+### Project#2: Prompt Injection Classifier
+### Project#3: PEFT "3 Characters Personalities"
