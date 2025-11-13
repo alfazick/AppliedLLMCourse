@@ -8,11 +8,16 @@ Class Moto : "Less is more"
 #### Intro to Batching
 #### InferenceControl
 
-### Projects: Out of box:  Classifier
 ## Module #2
 #### Fine tuning ideas. Gradient Descent. Pytorch
 #### How Transformers Turned into Classifiers Work
 #### FineTuning Bert Classifiers Raw No Optimization
 
+
 ## Module #3
-#### Low Rank Adaptation Theory 
+#### Low Rank Adaptation Theory
+#### PEFT Mini Example
+
+
+### Project: Prompt Injection Classifier
+### Project: PEFT "3 Characters Personalities"
