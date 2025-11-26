@@ -18,6 +18,10 @@ Class Moto : "Less is more"
 #### Low Rank Adaptation Theory
 #### PEFT Mini Example
 
+## Extra Topics:
+#### MultiModal (Vision and Laguage Transformers)
+#### Finetunning for Function Call (Constrained Generation Technique)
+
 ## Project
 
 ### Project#1: Web App Two Mode Summarization and Chat Manual Inference  
